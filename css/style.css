@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0;
+}
+.page1{
+    height:100vh;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.insta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blue;
+    font-size: 35px;
+    height: 60%;
+    width: 50%;
+}
